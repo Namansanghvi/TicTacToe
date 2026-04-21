@@ -22,6 +22,8 @@ public class UC3 {
 
         int slot = sc.nextInt();
 
+        sc.close();
+
         return slot;
     }
 }
